@@ -1,5 +1,5 @@
 ﻿2.0 版本 测试
-1
+
 数据库列调整
 gt_mgr  添加列  ukey
 
@@ -10,3 +10,5 @@ rmt_product
 rmt_use_follow
 rmt_use_photo
 rmt_userinfo
+
+已经可以成功上传 github
