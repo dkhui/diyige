@@ -1,0 +1,12 @@
+﻿2.0 版本 测试
+
+数据库列调整
+gt_mgr  添加列  ukey
+
+数据库表增加
+rmt_pdt_follow
+rmt_photo
+rmt_product
+rmt_use_follow
+rmt_use_photo
+rmt_userinfo
